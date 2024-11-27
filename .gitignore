@@ -1,0 +1,39 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset Store packages
+[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+*.iml
+*.iws
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
